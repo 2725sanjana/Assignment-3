@@ -1,0 +1,21 @@
+body{
+   
+    text-align: center,right-margin=20%;
+    background-image:linear-gradient(rgb(14, 13, 13),rgb(22, 22, 21)) ;
+    margin-left: 5%;
+    margin-right:5%;
+    
+}
+fieldset{ background -image:linear-gradient(rgb (178,202,210),rgb(125,183,210));
+}
+fieldset{
+    background-image: linear-gradient( rgb(197, 176, 214),rgb(126, 125, 210));
+}
+fieldset{
+ text-align=center;
+    
+     margin-left: 10%;
+     margin-right: 10%;
+}
+
+    
